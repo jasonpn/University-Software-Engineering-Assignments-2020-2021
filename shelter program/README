@@ -1,0 +1,40 @@
+Jason Nguyen
+101081666
+
+Program to create a shelter, keeping track of animals and clients, matching animals to clients and scoring them based on client criteria.
+
+Files:
+Animal.cc
+Animal.h
+Client.cc
+Client.h
+Control.cc
+Control.h
+Criteria.cc
+Criteria.h
+CriteriaArray.cc
+CriteriaArray.h
+defs.h
+Identifiable.cc
+Identifiable.h
+main.cc
+Makefile
+Match.cc
+Match.h
+MatchList.cc
+MatchList.h
+MatchListByClient.cc
+MatchListByClient.h
+MatchListByScore.cc
+MatchListByScore.h
+Shelter.cc
+Shelter.h
+View.cc
+View.h
+
+Compilation:
+make
+./a3
+
+Notes:
+The match by client list does sort by client id but sorting by score within that doesn't work 

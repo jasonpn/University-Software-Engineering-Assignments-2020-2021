@@ -1,0 +1,35 @@
+Jason Nguyen
+101081666
+
+Program to create reports of farm and animal statistics in Canada and its regions
+
+files:
+CompareBehaviour.h
+Control.cc
+Control.h
+farms.dat
+main.cc
+Makefile
+Map.h
+Record.cc
+Record.h
+ReportData.h
+ReportGenerator.h
+ReportGneerator.cc
+ReportOne.cc
+ReportOne.h
+ReportTwo.cc
+ReportTwo.h
+ReportThree.cc
+ReportThree.h
+View.cc
+View.h
+
+Compile:
+make
+./fp
+
+Notes:
+Results get duplicated after running each report again
+Report 3 is in order but shows subregions
+

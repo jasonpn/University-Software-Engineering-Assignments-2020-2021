@@ -1,0 +1,33 @@
+JASON NGUYEN 101081666
+
+PROGRAM TO CREATE A HOTEL, MANAGING RESERVATIONS WITH GUESTS AND ROOMS.
+
+FILES:
+Control.cc
+Control.h
+Date.cc
+Date.h
+defs.h
+Guest.cc
+Guest.h
+Hotel.cc
+Hotel.h
+main.cc
+Makefile
+README
+Recorder.cc
+Recorder.h
+Reservation.cc
+Reservation.h
+ResManager.cc
+ResManager.h
+Room.cc
+Room.h
+RoomArray.cc
+RoomArray.h
+View.cc
+View.h
+
+Compile:
+make
+./a4

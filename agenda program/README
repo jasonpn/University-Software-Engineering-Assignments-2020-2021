@@ -1,0 +1,19 @@
+Jason Nguyen 101081666
+Program to create calendars and agenda to keep a record of dates and events.
+
+Files:
+Agenda.cc
+Agenda.h
+Calendar.cc
+Calendar.h
+Date.cc
+Date.h
+main.cc
+Makefile
+
+Compilation:
+make
+./a1
+
+
+

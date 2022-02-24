@@ -1,0 +1,22 @@
+Author: Jason Nguyen
+Purpose: Program to simulate a race with runners
+Files:
+Array.cc
+Array.h
+main.cc
+Makefile
+MoveBehaviour.cc
+MoveBehaviour.h
+Position.cc
+Position.h
+Race.cc
+Race.h
+random.cc
+Runner.cc
+Runner.h
+View.cc
+View.h
+
+Compile:
+make
+./a3

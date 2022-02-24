@@ -1,0 +1,33 @@
+Jason Nguyen 101081666
+Program to create a telephone company and keep track of its subscribers and calls
+
+Files:
+Array.cc
+Array.h
+Call.cc
+Call.h
+Control.cc
+Control.h
+Date.cc
+Date.h
+main.cc
+Subcriber.cc
+Subscriber.h
+Telco.cc
+Telco.h
+Time.cc
+Time.h
+View.cc
+View.h
+
+Compilation:
+make
+./a2
+
+Notes:
+Option 1 to compute frequent caller works with the first subscriber and all but others give segmentation fault
+Option 2 works with all 
+
+
+Array copy constructor and add(Array& a) works only partially so replaced with prints to make program work better. 
+
